@@ -1,5 +1,5 @@
 # Article
-## "Coronavirus: Managing software development during lockdown
+## "Coronavirus: Managing software development during lockdown"
 https://www.computerweekly.com/feature/Coronavirus-Managing-software-development-during-lockdown
 
 
